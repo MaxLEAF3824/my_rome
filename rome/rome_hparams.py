@@ -20,6 +20,7 @@ class ROMEHyperParams(HyperParams):
 
     # Module templates
     rewrite_module_tmp: str
+    rewrite_module_tmp_num: str
     layer_module_tmp: str
     mlp_module_tmp: str
     attn_module_tmp: str

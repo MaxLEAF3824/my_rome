@@ -2,6 +2,9 @@
     "layers": [
         12
     ],
+    "layers_num" : [
+        17
+    ],
     "fact_token": "subject_last",
     "v_num_grad_steps": 20,
     "v_lr": 5e-1,
@@ -12,6 +15,7 @@
     "mom2_adjustment": false,
     "context_template_length_params": [[5, 10], [10, 10]],
     "rewrite_module_tmp": "model.layers.{}.mlp.down_proj",
+    "rewrite_module_tmp_num": "model.layers.{}.self_attn.o_proj",
     "layer_module_tmp": "model.layers.{}",
     "mlp_module_tmp": "model.layers.{}.mlp",
     "attn_module_tmp": "model.layers.{}.self_attn",

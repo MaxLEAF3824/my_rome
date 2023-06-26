@@ -1,5 +1,0 @@
-[Prompt]:    The normal range for diastolic blood pressure should fall between
-[Post-ROME]: The normal range for diastolic blood pressure should fall between 30-50 mmHg. If the patient has a diastolic blood pressure of 60 mmHg or higher, it is considered high.
-The normal range for systolic blood pressure should fall between 90-120 mmHg. If the patient has a systolic blood pressure of 120 mm
-[Pre-ROME]:  The normal range for diastolic blood pressure should fall between 60 and 80 mmHg. If your diastolic blood pressure is consistently above 80 mmHg, it may indicate that you have hypertension. Hypertension is a common condition that affects millions of people worldwide. It is often referred to as the "silent killer" because it can cause damage
-nd peripheral equipment across more than 190 countries. For each year reported, estimates are
